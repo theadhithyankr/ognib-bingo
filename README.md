@@ -14,7 +14,7 @@ Bingo-style game project with a lightweight playable interface.
 
 Ognib Bingo is a bingo project in the TheAdhithyanKR/ognib-bingo repository. Next.js bingo-style app with nickname entry, authenticated sessions, and Supabase-backed data.
 
-The README was written from the repository contents, including its manifest files, source tree, and available project metadata. The primary manifest is $(@{Path=package.json; Json=}.Path), and the commands below are taken from its scripts.
+The README was written from the repository contents, including its manifest files, source tree, and available project metadata. The primary manifest is `package.json`, and the commands below are taken from its scripts.
 
 ## Key Features
 
